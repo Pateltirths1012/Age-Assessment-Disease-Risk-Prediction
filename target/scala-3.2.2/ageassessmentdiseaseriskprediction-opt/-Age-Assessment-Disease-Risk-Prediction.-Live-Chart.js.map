@@ -1,0 +1,8 @@
+{
+"version": 3,
+"file": "-Age-Assessment-Disease-Risk-Prediction.-Live-Chart.js",
+"mappings": ";;;AAaA,SAAAA,6DAAA,CAAA,IAAA;;0JAAA,YAAA;WAAA,CAAA;;UAAA,KAAA,GAAA,CAAA;8FAAA,iDAAA,CAAA,KAAA;;YAAA,CAAA;;;C;AAAA,SAAAA,6DAAA,mE;",
+"sources": ["file:///C:/Users/patel/OneDrive%20-%20Northeastern%20University/Big%20data%20using%20scala/Age-Assessment-Disease-Risk-Prediction/src/main/scala/AgeAssessmentDiseaseRiskPrediction/project.scala"],
+"names": ["main"],
+"lineCount": 16
+}

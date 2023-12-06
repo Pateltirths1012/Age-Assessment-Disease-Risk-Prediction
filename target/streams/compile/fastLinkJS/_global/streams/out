@@ -1,0 +1,24 @@
+[info] Fast optimizing C:\Users\patel\OneDrive - Northeastern University\Big data using scala\Age-Assessment-Disease-Risk-Prediction\target\scala-3.2.2\ageassessmentdiseaseriskprediction-fastopt
+[debug] Linker: Compute reachability: 618294 us
+[debug] Linker: Assemble LinkedClasses: 88628 us
+[debug] Linker: 748966 us
+[debug] Optimizer: Batch mode: true
+[debug] Optimizer: Incremental part: 321333 us
+[debug] Optimizer: Optimizing 5421 methods.
+[debug] Optimizer: Optimizer part: 865334 us
+[debug] Optimizer: 1239346 us
+[debug] Refiner: Compute reachability: 124696 us
+[debug] Refiner: Assemble LinkedClasses: 21894 us
+[debug] Refiner: 153986 us
+[debug] Module Splitter: Calculate Dependency Info: 14651 us
+[debug] Module Splitter: Analyze Modules: 121080 us
+[debug] Module Splitter: Assemble Modules: 44132 us
+[debug] Module Splitter: 188265 us
+[debug] Emitter: Generate Classes: 736247 us
+[debug] Emitter: Write trees: 82584 us
+[debug] Emitter: Class tree cache stats: reused: 0 -- invalidated: 457
+[debug] Emitter: Method tree cache stats: reused: 0 -- invalidated: 2122
+[debug] Emitter: 958124 us
+[debug] BasicBackend: Write result: 323086 us
+[debug] BasicBackend: total top-level trees: 7496; re-computed: 7496
+[debug] BasicBackend: total modules: 8; re-written: 8

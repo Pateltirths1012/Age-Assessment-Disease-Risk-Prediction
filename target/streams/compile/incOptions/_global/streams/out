@@ -1,0 +1,29 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\patel\OneDrive - Northeastern University\Big data using scala\Age-Assessment-Disease-Risk-Prediction\target\scala-3.2.2\classes.bak
+[debug] About to delete class files:
+[debug] 	project$package$.class
+[debug] 	project$package.class
+[debug] 	LiveChart.class
+[debug] 	project$package$.tasty
+[debug] 	project$package.tasty
+[debug] 	LiveChart.tasty
+[debug] We backup class files:
+[debug] 	project$package$.class
+[debug] 	project$package.class
+[debug] 	LiveChart.class
+[debug] 	project$package$.tasty
+[debug] 	project$package.tasty
+[debug] 	LiveChart.tasty
+[debug] Registering generated classes:
+[debug] 	project.class
+[debug] 	project$DataItem.class
+[debug] 	project$$anon$1.class
+[debug] 	project$DataItem$.class
+[debug] 	project$.class
+[debug] 	project$DataItemID.class
+[debug] 	project.tasty
+[debug] 	project$DataItem.tasty
+[debug] 	project$$anon$1.tasty
+[debug] 	project$DataItem$.tasty
+[debug] 	project$.tasty
+[debug] 	project$DataItemID.tasty
+[debug] Removing the temporary directory used for backing up class files: C:\Users\patel\OneDrive - Northeastern University\Big data using scala\Age-Assessment-Disease-Risk-Prediction\target\scala-3.2.2\classes.bak

@@ -1,0 +1,8 @@
+{
+"version": 3,
+"file": "-Age-Assessment-Disease-Risk-Prediction.project.js",
+"mappings": ";;;AAMO,SAAAA,2DAAA,CAAA,IAAA;EAAAC,+EAAA,CAAA,+CAAA,GAAA,WAAA,CAAA,IAAA;C;AAAA,SAAAD,2DAAA,iE;",
+"sources": ["file:///C:/Users/patel/OneDrive%20-%20Northeastern%20University/Big%20data%20using%20scala/Age-Assessment-Disease-Risk-Prediction/src/main/scala/AgeAssessmentDiseaseRiskPrediction/project.scala"],
+"names": ["main", "-Age-Assessment-Disease-Risk-Prediction.project$"],
+"lineCount": 7
+}

@@ -1,0 +1,25 @@
+[info] Full optimizing C:\Users\patel\OneDrive - Northeastern University\Big data using scala\Age-Assessment-Disease-Risk-Prediction\target\scala-3.2.2\ageassessmentdiseaseriskprediction-opt
+[debug] Linker: Compute reachability: 478548 us
+[debug] Linker: Assemble LinkedClasses: 69387 us
+[debug] Linker: Check IR: 147615 us
+[debug] Linker: 765759 us
+[debug] Optimizer: Batch mode: true
+[debug] Optimizer: Incremental part: 481525 us
+[debug] Optimizer: Optimizing 625 methods.
+[debug] Optimizer: Optimizer part: 541383 us
+[debug] Optimizer: 1054164 us
+[debug] Refiner: Compute reachability: 35539 us
+[debug] Refiner: Assemble LinkedClasses: 8332 us
+[debug] Refiner: 51271 us
+[debug] Module Splitter: Calculate Dependency Info: 20407 us
+[debug] Module Splitter: Analyze Modules: 125907 us
+[debug] Module Splitter: Assemble Modules: 39535 us
+[debug] Module Splitter: 205278 us
+[debug] Emitter: Generate Classes: 261062 us
+[debug] Emitter: Write trees: 116208 us
+[debug] Emitter: Class tree cache stats: reused: 0 -- invalidated: 33
+[debug] Emitter: Method tree cache stats: reused: 0 -- invalidated: 110
+[debug] Emitter: 454231 us
+[debug] BasicBackend: Write result: 156978 us
+[debug] BasicBackend: total top-level trees: 527; re-computed: 527
+[debug] BasicBackend: total modules: 4; re-written: 4
