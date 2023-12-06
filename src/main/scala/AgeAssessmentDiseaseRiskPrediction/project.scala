@@ -36,7 +36,7 @@ object project:
 
   def appElement(): Element =
     div(
-      h1("Live Chart"),
+      h1("Age Assessment and Disease Risk Prediction"),
       renderDataTable(),
       renderDataList(),
     )
