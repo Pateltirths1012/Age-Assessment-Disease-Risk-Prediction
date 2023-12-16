@@ -1,18 +1,13 @@
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: C:\Users\patel\OneDrive - Northeastern University\Big data using scala\Age-Assessment-Disease-Risk-Prediction\src\main\scala\AgeAssessmentDiseaseRiskPrediction\project.scala:3:11 [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m3 |[0m[33mimport[0m com.raquo.laminar.api.L._[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       value raquo is not a member of com[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: C:\Users\patel\OneDrive - Northeastern University\Big data using scala\Age-Assessment-Disease-Risk-Prediction\src\main\scala\AgeAssessmentDiseaseRiskPrediction\project.scala:4:19 [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m4 |[0m[33mimport[0m org.scalajs.dom.document[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^^^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       import prefix is not a pure expression[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: C:\Users\patel\OneDrive - Northeastern University\Big data using scala\Age-Assessment-Disease-Risk-Prediction\src\main\scala\AgeAssessmentDiseaseRiskPrediction\project.scala:5:13 [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m[33mimport[0m scala.util.Random[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       import prefix is not a pure expression[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: C:\Users\patel\OneDrive - Northeastern University\Big data using scala\Age-Assessment-Disease-Risk-Prediction\src\main\scala\AgeAssessmentDiseaseRiskPrediction\project.scala:23:15 [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m23 |[0m      DataItem(DataItemID(), [31m"?"[0m, Random.nextDouble(), Random.nextInt([31m5[0m) + [31m1[0m)[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m               ^^^^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0m   Reference to constructor proxy for [33mclass[0m [35mDataItemID[0m in [33mobject[0m [35mproject[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0m   shadows outer reference to [33mvalue[0m [35mDataItemID[0m[0m
-[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\patel\OneDrive - Northeastern University\Big data using scala\Age-Assessment-Disease-Risk-Prediction\src\main\scala\AgeAssessmentDiseaseRiskPrediction\project.scala:33:7 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m33 |[0m[33mimport[0m japgolly.scalajs.react.vdom.all.headers[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m       ^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m       Not found: japgolly[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\patel\OneDrive - Northeastern University\Big data using scala\Age-Assessment-Disease-Risk-Prediction\src\main\scala\AgeAssessmentDiseaseRiskPrediction\project.scala:104:20 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m104 |[0m  dom.fetch(apiUrl, RequestInit([0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                    ^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                    Not found: RequestInit[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

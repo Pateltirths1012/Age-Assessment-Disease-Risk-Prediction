@@ -1,24 +1,24 @@
-[info] Fast optimizing C:\Users\patel\OneDrive - Northeastern University\Big data using scala\Age-Assessment-Disease-Risk-Prediction\target\scala-3.2.2\ageassessmentdiseaseriskprediction-fastopt
-[debug] Linker: Compute reachability: 618294 us
-[debug] Linker: Assemble LinkedClasses: 88628 us
-[debug] Linker: 748966 us
-[debug] Optimizer: Batch mode: true
-[debug] Optimizer: Incremental part: 321333 us
-[debug] Optimizer: Optimizing 5421 methods.
-[debug] Optimizer: Optimizer part: 865334 us
-[debug] Optimizer: 1239346 us
-[debug] Refiner: Compute reachability: 124696 us
-[debug] Refiner: Assemble LinkedClasses: 21894 us
-[debug] Refiner: 153986 us
-[debug] Module Splitter: Calculate Dependency Info: 14651 us
-[debug] Module Splitter: Analyze Modules: 121080 us
-[debug] Module Splitter: Assemble Modules: 44132 us
-[debug] Module Splitter: 188265 us
-[debug] Emitter: Generate Classes: 736247 us
-[debug] Emitter: Write trees: 82584 us
-[debug] Emitter: Class tree cache stats: reused: 0 -- invalidated: 457
-[debug] Emitter: Method tree cache stats: reused: 0 -- invalidated: 2122
-[debug] Emitter: 958124 us
-[debug] BasicBackend: Write result: 323086 us
-[debug] BasicBackend: total top-level trees: 7496; re-computed: 7496
-[debug] BasicBackend: total modules: 8; re-written: 8
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing C:\Users\patel\OneDrive - Northeastern University\Big data using scala\Age-Assessment-Disease-Risk-Prediction\target\scala-3.2.2\ageassessmentdiseaseriskprediction-fastopt[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 168044 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 25083 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: 225741 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Batch mode: false[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Incremental part: 65836 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizing 1 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizer part: 4123 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: 112523 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 57544 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 13289 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 72494 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Calculate Dependency Info: 481 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Analyze Modules: 18445 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Assemble Modules: 3753 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: 23294 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 23733 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 7861 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 291 -- invalidated: 3[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: reused: 1140 -- invalidated: 3[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: 73932 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: Write result: 92800 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: total top-level trees: 4738; re-computed: 35[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: total modules: 5; re-written: 3[0m

@@ -1,0 +1,8 @@
+{
+"version": 3,
+"file": "-Age-Assessment-Disease-Risk-Prediction.-Project$.js",
+"mappings": ";;;AAoEO,mB;AAAA,SAAA,+CAAA;;C;AAAA,SAAA,+CAAA,qD;AAAA,+CAAA,CAAA,SAAA,OAAAA,wDAAA,CAAA,IAAA,E;AAAA,+CAAA,CAAA,SAAA,CAAA,WAAA,GAAA,+C;AAAA,mB;AAAA,SAAA,+CAAA;;C;AAAA,SAAA,+CAAA,qD;AAAA,+CAAA,CAAA,SAAA,GAAA,+CAAA,CAAA,S;AAAA,+CAAA,CAAA,SAAA,CACDC,WADC,aACI,IADJ;EAEwC,IAAA,SAAA,GAA3B,QAA2B,CAAA,cAAA,CAAC,KAAD,CAFxC;EAGGD,wDAAA,CAAA,EAAA,CAAN,kIAAM,CAHH;EAGyB,IAAA,QAAA,yJAAA,oDAAA,EAHzB;EC+KH,IAAAA,wDAAA,CAAA,oCAAA,CAAa,SAAb,EAAwB,QAAxB,CD/KG;E;AAAA,IAAA,+CAAA,OAAAA,wDAAA,CAAA,SAAA,GAAA,SAAA;EAAA,4CAAA;;EAAA,4CAAA;EAAA,CAAA;E;AAAA,SAAA,+CAAA,qD;AAAA,+CAAA,CAAA,SAAA,CAAA,UAAA,GAAA,+C;AAAA,IAAA,+C;AAAA,SAAA,+CAAA;QAAA,+CAAA;IAAA,+CAAA,OAAA,+CAAA;;SAAA,+CAAA;C;AAAA,SAAA,+CAAA,qD;",
+"sources": ["file:///C:/Users/patel/OneDrive%20-%20Northeastern%20University/Big%20data%20using%20scala/Age-Assessment-Disease-Risk-Prediction/src/main/scala/AgeAssessmentDiseaseRiskPrediction/project.scala", "https://raw.githubusercontent.com/raquo/Laminar/4b5d6f6a9fba86178fb203dc46f6ea2fad32a11a/src/main/scala/com/raquo/laminar/api/Laminar.scala"],
+"names": ["internal-3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6", "main"],
+"lineCount": 38
+}
